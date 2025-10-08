@@ -1,0 +1,23 @@
+{
+  "name": "teste-de-api-do-serverest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefano3938/Teste-de-API-do-ServeRest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefano3938/Teste-de-API-do-ServeRest/issues"
+  },
+  "homepage": "https://github.com/stefano3938/Teste-de-API-do-ServeRest#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^15.4.0"
+  }
+}
