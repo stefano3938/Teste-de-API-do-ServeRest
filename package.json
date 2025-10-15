@@ -1,6 +1,7 @@
 {
   "name": "teste-de-api-do-serverest",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,12 +13,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/stefano3938/Teste-de-API-do-ServeRest/issues"
   },
   "homepage": "https://github.com/stefano3938/Teste-de-API-do-ServeRest#readme",
-  "description": "",
   "devDependencies": {
+    "@faker-js/faker": "^10.1.0",
     "cypress": "^15.4.0"
   }
 }
